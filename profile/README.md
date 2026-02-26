@@ -16,4 +16,4 @@ Current work includes:
 RoadMinded Systems is currently in early-stage development.
 
 For inquiries:
-contact@roadminded.com
+info@roadminded.com
